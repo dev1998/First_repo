@@ -1,0 +1,88 @@
+	body{
+		color: blue;
+		font-family: verdana, Arial, Geneva,Arial Black;
+		font-weight:normal;
+		background-color: #ffcf79;
+		font-size: 20px;
+	}
+	
+	h1 {
+		color: blue;
+		text-decoration: underline overline ;
+		font-size: 150%;
+		text-align:center;
+	}
+	
+	h2{
+		color: blue;
+		text-decoration: underline overline ;
+		font-size: 1.2em;
+		text-align:center;
+	}
+	
+	h3{
+		color: blue;
+		text-decoration: underline ;
+	}
+	
+	#onehome{
+		color: red;
+	}
+	
+	p.paragraph{
+		background-color:rgb(192,192,192);
+		padding: 20px 20px 20px 20px;
+		border:2px solid black;
+		background-image: url(clouds.jpg);
+		text-align:center;
+		border-radius: 10px;
+		border-bottom-style: dotted;
+		border-bottom-color: red;
+	}
+	
+	#fivebtech{
+		background-color:rgb(192,192,192);
+		padding: 20px 20px 20px 20px;
+		border:thick ridge #296A64;
+		margin: 20px 0px 0px 200px;
+		text-align:center;
+	}
+	
+	.image {
+		display:block;
+		margin-left:auto;
+		margin-right:auto;
+		background-color: silver;
+		padding:5px 5px 5px 5px;
+		border:5px solid black;
+	}
+	
+	#divhome{
+		color:purple;
+	}
+	
+	#divbtech{
+		color: purple;
+	}
+
+	.divcontent{
+		color:purple;
+	}
+	
+	.highlight{
+		background-color: yellow;
+		
+	}
+	
+	a:link{
+		color:blue;
+	}
+	
+	a:visited{
+		color:red;
+	}
+	
+	a:hover{
+		color:yellow;
+	}
+	
